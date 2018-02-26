@@ -24,4 +24,6 @@ I found the following command to work and thus avoid the reboot:
 
 $ sudo systemd-tmpfiles --prefix=/sys --create  
 
+You can also read [this post](https://askubuntu.com/questions/596085/increase-trackpoint-sensititvity-with-systemd-ubuntu-15-04-or-later) for more information.
+
 If you are like me, your hand will thank you for making these adjustments.  
