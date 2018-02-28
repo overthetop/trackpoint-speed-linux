@@ -1,5 +1,5 @@
 # trackpoint-speed-linux
-How to adjust trackpoint speed on Ubuntu
+How to adjust trackpoint speed/sensitivity on Ubuntu
 
 As it turns out, adjusting the slider translates into numeric values which live in files in Linux's /sys filesystem. I think this should be consistent across X1 Yoga systems but in my case those files were:  
 
